@@ -1,0 +1,7 @@
+com\upiiz\examen_II\services\DepartmentService.class
+com\upiiz\examen_II\repositories\DepartmentRepository.class
+com\upiiz\examen_II\config\OpenApiConfiguration.class
+com\upiiz\examen_II\controllers\DepartmentController.class
+com\upiiz\examen_II\ExamenIiApplication.class
+com\upiiz\examen_II\entities\DepartmentEntity.class
+com\upiiz\examen_II\config\SecurityConfig.class
