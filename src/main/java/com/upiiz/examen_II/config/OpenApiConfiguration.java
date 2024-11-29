@@ -29,7 +29,7 @@ import org.springframework.context.annotation.Configuration;
                 ),
                 @Server(
                         description = "Servidor de Produccion",
-                        url = "hhttps://examen-ii-web-1.onrender.com"
+                        url = "https://examen-ii-web-1.onrender.com"
                 )
         },
         tags = {
